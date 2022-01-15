@@ -110,7 +110,7 @@ And UI/Website LiveSiteLink......is https://candit-chandraskar.netlify.app/
 And Server Site  LiveSiteLink.............is https://secret-bayou-48600.herokuapp.com/
 
 
-Gethub Clint SiteLink,,,,, is 
+Gethub Clint SiteLink,,,,, is https://github.com/uxmain/Candit-Chandrasekar
 Gethub Server SiteLink,,,,, is https://github.com/uxmain/server-test
 
 
