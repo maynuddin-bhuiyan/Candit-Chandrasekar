@@ -7,7 +7,7 @@ const useData = () => {
 
     //Loaed Data
     useEffect(() => {
-        fetch('http://localhost:7000/product')
+        fetch('https://secret-bayou-48600.herokuapp.com/product')
             .then(res => res.json())
             .then(data => setProduct(data))
     },
