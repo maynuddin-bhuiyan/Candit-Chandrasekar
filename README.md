@@ -9,6 +9,27 @@ WebSite Name:
 #Candit Chandraskar
 
 
+#Details,
+
+
+
+
+I have not been able to do your job well due to my exams, but I can say that if I get a chance to work with you, I will work with my maximum time and skill.
+
+and last I say,
+
+Everyone needs a platform to show-window their skills and so do I. All I need is a chance to prove myself. I can assure you I will give my best.
+
+
+
+
+
+
+
+
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -115,6 +136,20 @@ Gethub Server SiteLink,,,,, is https://github.com/uxmain/server-test
 
 
 
+
+One More Thing,
+
+
+And I understand the value of time, and I try to send it within the time you give me.
+
+
+Thanks To send me the test.
+
+
+
+
+
+Thanks!..
 
 
 
